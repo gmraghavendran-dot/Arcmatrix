@@ -1,7 +1,6 @@
 # ArcMatrix
 
-## Project root
-After extraction, this folder IS the project root. There is no nested `ArcMatrix\ArcMatrix` directory.
+
 
 ## Windows setup
 ```powershell
