@@ -407,6 +407,3 @@ ArcMatrix aggregates metrics across four disparate operational domains (GitHub, 
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
